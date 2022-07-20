@@ -1,5 +1,5 @@
 import './style.css'
-import './clean-code/07-classes-b'
+import './clean-code//09-tarea'
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `
